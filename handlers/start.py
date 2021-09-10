@@ -52,16 +52,16 @@ async def start_(client: Client, message: Message):
                          "😄 ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Timesisnotwaiting")
+                        "💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/danieldeepak10")
                 ],[
                     InlineKeyboardButton(
-                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Zaid_Support"
+                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Namma_RCB_Group"
                     ),
                     InlineKeyboardButton(
-                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Zaid_Updates")
+                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Namma_RCB_Group")
                 ],[
                     InlineKeyboardButton(
-                        "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/Zaid_Team1")
+                        "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/Namma_RCB_Group")
                 ],[
                     InlineKeyboardButton(
                         "😉 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ😍", url="https://github.com/Itsunknown-12/Zaid-Vc-Player"
